@@ -53,11 +53,11 @@
 }
 
 #menu a[href="https://www.adminer.org/"]:after {
-    content: " produkce";
+    content: " stage";
     text-transform: uppercase;
     display: block;
     width: 274px;
-    background-color: tomato;
+    background-color: #3b95d2;
     font-size: 30px;
     font-style: initial;
     text-align: center;
