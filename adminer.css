@@ -54,7 +54,7 @@
 }
 
 #menu a[href="https://www.adminer.org/"]:after {
-    content: " produkce";
+    content: " dev";
     text-transform: uppercase;
     display: block;
     width: 274px;
